@@ -1,0 +1,20 @@
+amazon-textract-response-parser  # Parses responses from Amazon Textract
+black                            # Code formatter for Python
+boto3                            # AWS SDK for Python to interact with AWS services
+chromadb                         # Chroma database for vector embeddings
+fastapi                          # Web framework for building APIs with Python 3.6+
+langchain_chroma                 # Integration of LangChain with Chroma
+langchain_community              # Community-contributed LangChain components
+langchain_core                   # Core components of LangChain
+langchain_huggingface            # Integration of LangChain with Hugging Face
+mistralai                        # Library for AI and machine learning tasks
+nest_asyncio                     # Allows nested use of asyncio.run and loop.run_until_complete
+openpyxl                         # Reads/writes Excel 2010 xlsx/xlsm/xltx/xltm files
+pandas                           # Data manipulation and analysis library
+playwright                       # Browser automation library for web scraping and testing
+pydantic                         # Data validation and settings management using Python type annotations
+pydantic-settings                # Extends pydantic for settings management
+pypdf                            # PDF toolkit for reading and manipulating PDF files
+python-docx                      # Reads/writes Microsoft Word 2007/2010 docx files
+python-dotenv                    # Loads environment variables from .env file
+uvicorn                          # ASGI server for serving FastAPI applications
